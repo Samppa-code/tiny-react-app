@@ -1,4 +1,5 @@
 // src/Counter.js
+// Change
 import React, { useState } from 'react';
 
 const Counter = () => {
