@@ -93,5 +93,5 @@ jobs:
       repository: ${{ github.repository}}
         
 
-        run: npm run deploy
+      run: npm run deploy
 
