@@ -5,9 +5,10 @@
   "main": "index.js",
   "homepage": "http://Samppa-code.github.io/tiny-react-app",
   "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "jest --config jest.config.js",
     "lint": "eslint .",
-    "build": "cp src/*.js dist/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
