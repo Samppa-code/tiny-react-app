@@ -1,4 +1,5 @@
 // __tests__/Counter.test.js
+// Jest will automatically look for test files with any of the following popular naming conventions:
 import React from 'react';
 import { render, fireEvent, screen } from '@testing-library/react';
 import { toBeInTheDocument } from '@testing-library/jest-dom/matchers';
