@@ -79,5 +79,4 @@ jobs:
         run: npm install
 
       - name: Deploy to GitHub Pages
-        run: |
-          # Add your deployment commands here
+        run: npm run deploy
