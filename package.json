@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "http://Samppa-code.github.io/tiny-react-app",
   "scripts": {
     "test": "jest --config jest.config.js",
     "lint": "eslint .",
